@@ -23,3 +23,9 @@ body {
   color: white;
   border: none;
 }
+
+.container span {
+  font-size: 18px;
+  margin-bottom: 16px;
+  display: block;
+}
