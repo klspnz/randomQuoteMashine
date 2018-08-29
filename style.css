@@ -1,0 +1,25 @@
+body {
+  background: grey;
+}
+
+.container {
+  width: 500px;
+  background: white;
+  padding: 16px;
+  margin: 0 auto;
+  margin-top: 300px;
+  text-align: center;
+}
+
+.container p {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.container button {
+  padding: 8px;
+  font-size: 16px;
+  background: grey;
+  color: white;
+  border: none;
+}
